@@ -1,5 +1,5 @@
 .pdf-download-section {
-  max-width: 1300px;
+  max-width: 1000px;
   margin: 60px auto;
   padding: 0 20px;
   text-align: center;
@@ -23,7 +23,7 @@
 /* Grid */
 .pdf-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 32px;
   margin-top: 40px;
 }
